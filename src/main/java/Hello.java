@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("你好afdf执行d");
         System.out.println("你好11");
         System.out.println("测试Git的使用");
+        System.out.println("测试忽略文件的使用");
     }
 }
