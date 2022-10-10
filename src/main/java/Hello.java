@@ -9,5 +9,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("你好afdf执行d");
         System.out.println("你好11");
+        System.out.println("测试Git的使用");
     }
 }
